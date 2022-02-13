@@ -1,6 +1,6 @@
 - 中医
 
-  - [伤寒杂病论](zhongyi/shzbl.md)
+  - [伤寒杂病论](zhongyi/伤寒杂病论.md)
   - [难经](zhongyi/nj.md)
   - [神农本草经](zhongyi/snbcj.md)
   - [黄帝内经](zhongyi/hdnj.md)
