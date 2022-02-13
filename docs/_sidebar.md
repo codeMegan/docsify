@@ -1,14 +1,18 @@
 - 中医
 
-  - [伤寒杂病论](desgin-pattern/Java面试必备：手写单例模式.md)
-  - [难经](desgin-pattern/工厂模式超详解（代码示例）.md)
-  - [神农本草经](desgin-pattern/设计模式之原型模式.md)
-  - [黄帝内经](desgin-pattern/设计模式之代理模式.md)
+  - [伤寒杂病论](zhongyi/伤寒杂病论.md)
+  - [难经](zhongyi/难经.md)
+  - [神农本草经](zhongyi/神农本草经.md)
+  - [黄帝内经](zhongyi/黄帝内经.md)
 
-- Spring框架
+- 编程语言
+  - [Java编程思想](bianchengyuyan/Java编程思想.md)
+  - [数据结构与算法分析](bianchengyuyan/数据结构与算法分析.md)
+- 西医
+  - [消化系统](xiyi/消化系统.md)
+  - [血液系统](xiyi/血液系统.md)
+  - [泌尿系统](xiyi/泌尿系统.md)
+  - [呼吸系统](xiyi/呼吸系统.md)
 
-  - [初识spring框架](spring/【10分钟学Spring】：（一）初识Spring框架.md)
-  - [依赖注入及示例](spring/【10分钟学Spring】：（二）一文搞懂spring依赖注入（DI）.md)
-  - [spring的条件化装配](spring/【10分钟学Spring】：（三）你了解spring的高级装配吗_条件化装配bean.md)
-
-- 数据库
+- 佛经
+  - [大佛顶首楞严经](fojing/大佛顶首楞严经.md)
