@@ -1,9 +1,9 @@
 - 中医
 
-  - [伤寒杂病论](zhongyi/伤寒杂病论.md)
-  - [难经](zhongyi/难经.md)
-  - [神农本草经](zhongyi/神农本草经.md)
-  - [黄帝内经](zhongyi/黄帝内经.md)
+  - [伤寒杂病论](zhongyi/shzbl.md)
+  - [难经](zhongyi/nj.md)
+  - [神农本草经](zhongyi/snbcj.md)
+  - [黄帝内经](zhongyi/hdnj.md)
 
 - 编程语言
   - [Java编程思想](bianchengyuyan/Java编程思想.md)
