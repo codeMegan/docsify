@@ -1,0 +1,10 @@
+## 玉石
+- [石灰](zhongyi/snbcj/xj/ys/石灰.md)
+- [礜石](zhongyi/snbcj/xj/ys/礜石.md)
+- [铅丹](zhongyi/snbcj/xj/ys/铅丹.md)
+- [粉锡](zhongyi/snbcj/xj/ys/粉锡.md)
+- [代赭](zhongyi/snbcj/xj/ys/代赭.md)
+- [戎盐](zhongyi/snbcj/xj/ys/戎盐.md)
+- [白垩](zhongyi/snbcj/xj/ys/白垩.md)
+- [冬灰](zhongyi/snbcj/xj/ys/冬灰.md)
+- [青琅玕](zhongyi/snbcj/xj/ys/青琅玕.md)
